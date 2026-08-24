@@ -8,7 +8,7 @@ I write in **Java, Kotlin, Python, Dart(Flutter), JavaScript, C#, C++**:
 – time‑chain correlators,  
 – modules for passive reconnaissance.  
 
-### What I do:
+### 🧩 What I do:
 
 - I reconstruct the chronology of events using MAC times, headers, and network artifacts.  
 - I identify entities from open sources without active scanning.  
@@ -25,6 +25,6 @@ I write in **Java, Kotlin, Python, Dart(Flutter), JavaScript, C#, C++**:
 - exiftool, tshark, Zeek, scapy, binwalk, recon-ng, theHarvester  
 - Own aggregator and parser scripts  
 
-### Contact:
+### ☎️ Contact:
 
 Telegram, Profi.ru, Kwork.ru. That`s all
