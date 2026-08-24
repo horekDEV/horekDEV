@@ -1,16 +1,30 @@
-## Hi there 👋
+**I am H.**  
+A **developer** and researcher in the field of **OSINT** and **digital forensics**.  
 
-<!--
-**horekDEV/horekDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My code is not a product, but a tool for analysis.  
+I write in **Java, Kotlin, Python, Dart(Flutter), JavaScript, C#, C++**:  
+– log parsers,  
+– metadata aggregators,  
+– time‑chain correlators,  
+– modules for passive reconnaissance.  
 
-Here are some ideas to get you started:
+### What I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I reconstruct the chronology of events using MAC times, headers, and network artifacts.  
+- I identify entities from open sources without active scanning.  
+- I clean data of noise before I start the analysis.  
+- I extract hidden metadata (GPS, devices, hashes).  
+- I analyze network flows - TLS digests, missed DNS requests.  
+
+
+### ⚙️ Environment and tools:
+
+- Linux Fedora
+- MacOS
+- Windows
+- exiftool, tshark, Zeek, scapy, binwalk, recon-ng, theHarvester  
+- Own aggregator and parser scripts  
+
+### Contact:
+
+Telegram, Profi.ru, Kwork.ru. That`s all
